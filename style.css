@@ -1,0 +1,125 @@
+body{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.photo{
+    width: 337.694px;
+    height: 450px;
+    align-items: center;
+}
+
+.PERFUME{
+    display: block;
+    align-items: start;
+    justify-content: start;
+    width: 10px;
+    height: 50;
+}
+
+.PERFUME{
+font-family: Montserrat;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 5px;
+margin: 10px;
+}
+
+.PERFUME{
+    color: var(--Aurometal-Saurus, #6C7289);
+font-feature-settings: 'clig' off, 'liga' off;
+}
+
+.h1{
+font-size: 21px;
+font-style: normal;
+font-weight: 10px;
+line-height: 30px;
+margin-top: 10px;
+}
+
+
+.div{
+    display: flex;
+width: 1440px;
+height: 800px;
+padding: 175px 420px;
+justify-content: center;
+align-items: center;
+background: var(--cream-bg, #F2EAE2);
+}
+
+.child{
+    width: 600px;
+height: 450px;
+}
+
+.child{
+    border-radius: 10px;
+background: var(--Pure-White, #FFF);
+}
+
+.p2{
+    display: flex;
+    flex-direction: column;
+    font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 23px;
+color: var(--Aurometal-Saurus, #6C7289);
+font-feature-settings: 'clig' off, 'liga' off;
+margin-top: -10px;
+}
+
+.dollar{
+    font-family: Fraunces;
+font-size: 17px;
+font-style: normal;
+font-weight: 700;
+line-height: 32px;
+color: var(--Deep-Aquamarine, #3D8168);
+font-feature-settings: 'clig' off, 'liga' off;
+}
+
+.dollar2{
+    color: var(--Aurometal-Saurus, #6C7289);
+    font-family: Montserrat;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 23px; /* 176.923% */
+    text-decoration-line: strikethrough;
+}
+
+.dollar2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: -67px;
+}
+
+.cart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 236px;
+height: 48px;
+border-radius: 8px;
+background: var(--Deep-Aquamarine, #3D8168);
+}
+
+.button{
+    border-radius: 8px;
+    background-color: #3D81;
+    height: 48px;
+    width: 236px;
+    font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
